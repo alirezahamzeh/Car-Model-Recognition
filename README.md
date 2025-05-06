@@ -66,7 +66,7 @@ Input (400×400×3)
 
 ## 📈 5. Training & Validation Curves
 
-![Training and Validation Metrics](./assets/training_validation_metrics.png)
+![Training and Validation Metrics](./result/Curves.png)
 *Loss, Accuracy, Precision, Recall, and F1-score trends over training and validation sets.*
 
 ---
